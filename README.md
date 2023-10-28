@@ -1,7 +1,7 @@
-<h1>Active Directory Lab</h1>
+<h1>Setup SIEM in Azure Lab</h1>
 
 <h2>Description</h2>
-In this lab we will walk through how to create an Active Directory home lab environment using Oracle Virtual Box.
+In this lab we will walk through how to setup a SIEM in Azure and connect it to a Virtual Machine acting a honeypot. We will observe live attacks (RDP Brute Force) from around the world. We will look up the attacker's Geolocation information and plot it on the Azure Sentinel Map using a custom PowerShell Script.
 <br />
 
 
