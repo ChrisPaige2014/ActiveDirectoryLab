@@ -7,13 +7,13 @@ In this lab we walk through how to setup a SIEM in Azure and connect it to a Vir
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Oracle Virtual Box</b>
+- <b>Azure</b> 
+- <b>PowerShell</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
-- <b>Server 2019</b>
+- <b>Windows 11</b> (22H2)
+- <b>Microsoft Azure</b> 
 
 <h2>Program walk-through:</h2>
 
@@ -46,6 +46,34 @@ Log in to Virtual Machine with Remote Desktop Connection app: <br/>
 <img src="https://i.imgur.com/ihsXQxh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />   
+Disable firewall in Virtual Machine: <br/>
+<img src="https://i.imgur.com/vA3S7US.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br /> 
+Run code with API in PowerShell inside Virtual Machine: <br/>
+<img src="https://i.imgur.com/gN6Y18h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br /> 
+Create custom log: <br/>
+<img src="https://i.imgur.com/Wa7OZws.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br /> 
+Run FAILED_RDP_WITH_GEO_CL code in logs: <br/>
+<img src="https://i.imgur.com/emqLPn3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br /> 
+Microsoft Sentinel: <br/>
+<img src="https://i.imgur.com/tFmss4g.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Run query code and choose maps as vizualization: <br/>
+<img src="https://i.imgur.com/GW1ognZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Map of attacks: <br/>
+<img src="https://i.imgur.com/6S3u9Ce.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 <!--
  ```diff
 - text in red
