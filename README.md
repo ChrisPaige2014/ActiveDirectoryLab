@@ -19,27 +19,27 @@ In this lab we walk through how to setup a SIEM in Azure and connect it to a Vir
 
 <p align="center">
 Create Virtual Machine: <br/>
-<img src="https://i.imgur.com/g4xg5IW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tBHb4RH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Create Network Security Group: <br/>
-<img src="https://i.imgur.com/QcMngKJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Un9Ohnz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Create Logs Analytics Workspace: <br/>
-<img src="https://i.imgur.com/QvgyX85.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uf8yOly.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Turn off Windows Defender for the SQL Servers: <br/>
-<img src="https://i.imgur.com/9znziVd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9cbitRj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Connect Virtual Machine to Log Analytics: <br/>
-<img src="https://i.imgur.com/X15j8Eb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HrcChBd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br /> 
 Create Microsoft Sentinel (SIEM): <br/>
-<img src="https://i.imgur.com/bIxlb83.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eowvQs9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br /> 
 Log in to Virtual Machine with Remote Desktop Connection app: <br/>
