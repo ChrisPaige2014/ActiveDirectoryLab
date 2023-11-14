@@ -7,7 +7,6 @@ In this lab we walk through how to setup a SIEM in Azure and connect it to a Vir
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Azure</b> 
 - <b>PowerShell</b>
 
 <h2>Environments Used </h2>
